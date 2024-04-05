@@ -36,7 +36,7 @@
       "key": "drpy_js_厂长资源",
       "name": "影视 | 厂长资源[js]",
       "type": 3,
-      "api": "./libs/drpy2.min.js",
+      "api": "./libs/js/drpy2.min.js",
       "ext": "./libs/厂长资源.js"
     },
     {"key": "77","name": "👒┃七七┃秒播","type": 3,"api": "csp_Kunyu77","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1
